@@ -57,18 +57,8 @@ Encontrou um bug ou tem sugestões de melhoria? [Abra uma issue](#) e teremos o 
 
 ---
 
-## Desenvolvedores
+## Desenvolvedora
 
-- [Seu Nome](#) - Desenvolvedor Front-end
+- [Kathleen Santos](#) - Desenvolvedor Front-end
 
----
 
-## Licença
-
-Este projeto está sob a licença [MIT](LICENSE.md).
-
----
-
-Agradecemos por visitar a Games Shop! Divirta-se explorando nossa loja virtual de games.
-
-&copy; Games Shop - Todos os direitos reservados - 2023
